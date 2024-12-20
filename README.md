@@ -1,1 +1,11 @@
 # snhu-cs300
+
+Problem Statement: The projects undertaken in this course aimed to develop a strong and efficient course planning application. The primary problem was managing course data, including their prerequisites and details, and providing user-friendly access to this information. Handling large datasets with efficiency in data processing and retrieval was paramount.
+
+Approach: To tackle this, I employed various data structures—Vectors, Hash Tables, and Binary Search Trees—each offering unique advantages in data manipulation and access. Understanding the strengths and limitations of these structures was crucial, as it directly impacted the application's performance and scalability. For instance, vectors were simple to implement but less efficient for large datasets due to their O(n) search times, while hash tables offered average-case constant time complexity, making them ideal for operations like insertion and search.
+
+Overcoming Roadblocks: One of the major challenges was ensuring the data integrity and consistency, especially when dealing with prerequisites. Debugging and validating prerequisites required careful consideration of logical conditions and flow control to prevent incorrect data entry and retrieval. By implementing comprehensive validation routines and using thorough testing, I managed to overcome these challenges.
+
+Impact on Software Design and Development: This project broadened my perspective on the significance of choosing the right data structure based on the specific requirements of the application. It highlighted the importance of considering factors like runtime efficiency and memory usage, which are critical in software design. This experience has made me more adept at structurally planning my approach before diving into coding, ensuring a solid foundation for the application's functionality.
+
+Evolution in Programming Practices: Working on this project has refined my coding practices significantly. I have become more diligent in writing maintainable and adaptable code. For instance, segregating functionality into distinct functions, each handling a specific task, has made the codebase more organized and easier to manage. Furthermore, I incorporated comments and followed naming conventions that enhance readability and make the program more accessible to other developers or future maintainers.
